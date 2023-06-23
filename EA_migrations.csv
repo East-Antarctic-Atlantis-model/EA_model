@@ -1,0 +1,5 @@
+GroupCode,StartStage,MigID,StartTofY,EndTofY,Leave_Period,Return_Period,IsAnnualMigration,MinTimeAway,MaxTimeAway,MigrateStockReturn,MigPropSizeInc,MigPropSurvive
+WHOM,0,0,227,140,45,1,1,0,0,0,5.08,1
+WHMM,1,0,165,188,1,1,1,0,0,0,0.2,1
+FCO,0,0,196,274,44,1,1,0,0,0,2.48,0.25
+FCO,1,0,319,80,1,1,1,0,0,0,0.18,0.25
