@@ -6,7 +6,7 @@
 
 The East Antarctic Atlantis Ecosystem Model is a comprehensive simulation model that represents the ecosystem dynamics of the East Antarctic region. This model incorporates various environmental factors, biological interactions, and human uses to simulate the functioning and sustainability of the East Antarctic ecosystem.
 
-The model consists of 29 boxes (i.e., 29 polygons with max. 10 depth layers + sediment layer) and 29 functional groups. The physical conditions are driven by ACCESS-OM2-CICE outputs (usage validated by Fierro-Arcos et al. 2023: https://linkinghub.elsevier.com/retrieve/pii/S0079661123000927) 
+The model consists of 29 boxes (i.e., 29 polygons with max. 10 depth layers + sediment layer) and 29 functional groups. The physical conditions are driven by ACCESS-OM2-CICE outputs (usage validated by Fierro-Arcos et al. 2023: https://linkinghub.elsevier.com/retrieve/pii/S0079661123000927).
 
 ## Features
 
