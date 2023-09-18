@@ -1,5 +1,5 @@
-05/05/2023 - IS
-EAST ANTARCTIC ATLANTIS - introduction
+18/09/2023
+# EAST ANTARCTIC ATLANTIS - introduction
 
 **WIP_files folder contains most up-to-date model files as modified by IS during calibration. Files will be added as calibration progresses and better results are achieved.**
 
