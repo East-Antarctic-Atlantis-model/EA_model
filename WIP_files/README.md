@@ -1,5 +1,6 @@
 18/09/2023
-# EAST ANTARCTIC ATLANTIS - introduction
+# EastAnt Atlantis
+## Introduction to folder structures and files
 
 Note: WIP_files folder contains most up-to-date model files as modified by IS during calibration. Files will be added as calibration progresses and better results are achieved.
 
