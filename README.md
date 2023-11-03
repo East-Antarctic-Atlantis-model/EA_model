@@ -49,7 +49,7 @@ Contributions to the Antarctic Atlantis Ecosystem Model are welcome! If you have
 
 ## License
 
-Not sure what Licence here
+To get access to Atlantis, please follow the instructions in this [link](https://research.csiro.au/atlantis/home/links/).
 
 ## Acknowledgments
 
